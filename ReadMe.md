@@ -10,3 +10,7 @@ For backend
 - run "composer install" (see composer.json for dependencies)
 - run "php artisan migrate"
 - run "php artisan serve"
+
+Explanation:
+I tried to make the app simple. Its only job is to forecast weather of the selected city
+and recommending some places for the tourist.
